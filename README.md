@@ -8,7 +8,7 @@ DATA:
 * R -- R/Ro 
 * AM -- Mv
 * Color -- General Color of Spectrum
-* Spectral_Class -- O,B,A,F,G,K,M / SMASS - https://en.wikipedia.org/wiki/Asteroid_spectral_types \
+* Spectral_Class -- O,B,A,F,G,K,M / SMASS - https://en.wikipedia.org/wiki/Asteroid_spectral_types 
 * Type -- Red Dwarf, Brown Dwarf, White Dwarf, Main Sequence , Super Giants, Hyper Giants 
 
 MATH: 
